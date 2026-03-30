@@ -1,0 +1,5 @@
+{
+  "name": "WordFlow - 单词记忆筛选工具",
+  "description": "一个高效的单词记忆与筛选工具，支持多级分类、CSV导入导出及本地数据库管理。",
+  "requestFramePermissions": []
+}
